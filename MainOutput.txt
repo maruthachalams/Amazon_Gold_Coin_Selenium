@@ -1,0 +1,176 @@
+Sl.No	Generic Name	Item Weight	Manufacturer	Product Title	Rating	Number of Ratings	Bought in Past Month	MRP	Discount	Final Price
+1	Laxmi Coin	1 g	No	Malabar Gold & Diamonds Gold Coin 24K 1 gram | Gold Coin 24k 999 Purity | 24 kt Gold Coin for Birthday, Wedding & Diwali Gift , Goddess Laxmi Impression : Amazon.in: Fashion	4.6 out of 5 stars	939	100+	₹9,500.00	-7%	8,789
+2	Gold Coin	1 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Goddess Lakshmi Gold Coin 1 Gms at Amazon.in	4.8 out of 5 stars	8	100+	₹9,679.00	-9%	8,799
+3	Gold Coin	1 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Goddess Lakshmi Gold Coin 1 Gms at Amazon.in	4.8 out of 5 stars	8	100+	₹9,679.00	-9%	8,799
+4		1 g		P.C. Chandra Jewellers 24k (995) 1 gm Yellow Gold Coin : Amazon.in: Fashion	4.5 out of 5 stars	58		₹10,498.00	-15%	8,883
+5		300 g	Bangalore Refinery (P) Ltd	Bangalore Refinery 0.5 Gram 24k (999) Yellow Gold Coin : Amazon.in: Jewellery	4.6 out of 5 stars	413	200+			4,534
+6	Gold Coin	1 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Lord Ganesh Gold Coin 1 Gms at Amazon.in	4.3 out of 5 stars	6		₹9,679.00	-9%	8,799
+7	FashionJewelry	1 g	Muthood PAPPACHAN	Buy Muthoot Pappachan Swarnavarsham Hallmarked 999 Gold Coin 1 Gm at Amazon.in	4.4 out of 5 stars	73	50+	₹12,132.00	-27%	8,805
+8		400 g		P.C. Chandra Jewellers 22k (916) 1 gm Yellow Gold Coin : Amazon.in: Fashion	4.9 out of 5 stars	18		₹9,711.00	-16%	8,199
+9	Rose Coin	2 g	No	Malabar Gold & Diamonds Gold Coin 24K 2 grams | Gold Coin 24k 999 Purity | 24 kt Gold Coin for Birthday, Wedding & Diwali Gift , Rose Impression : Amazon.in: Fashion	4.7 out of 5 stars	1,587		₹18,600.00	-7%	17,309
+10		0.25 g	Kundan Refinery Pvt Ltd	Kundan 0.25g Gold Coin 24k (999.9) : Amazon.in: Fashion	4.3 out of 5 stars	151	50+	₹2,799.00	-10%	2,511
+11		1 g	Bangalore Refinery (P) Ltd.	Bangalore Refinery 1 Gram 24k (999) Yellow Gold Rose Coin : Amazon.in: Jewellery	4.7 out of 5 stars	27		₹9,500.00	-7%	8,839
+12	Bangalore Refinery 24k (999) 1gm + 0.50gm Combo Yellow Gold Coin	1.5 g	Bangalore Refinery (P) Ltd.	Bangalore Refinery 24k (999) 1gm + 0.50gm Combo Yellow Gold Coin : Amazon.in: Jewellery	4.7 out of 5 stars	34		₹15,000.00	-11%	13,283
+13	Gold Coin	1 g	P.C Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Coin - 1 Gram at Amazon.in	4.5 out of 5 stars	2		₹10,506.00	-15%	8,890
+14	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Ganapaty Design : Amazon.in: Jewellery						
+15	Gold Coin	1 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Swastik Gold Coin 1 Gms at Amazon.in				₹9,679.00	-9%	8,799
+16	Gold Coin	1 g	JOS ALUKKAS	Buy Jos Alukkas 22Kt (916) Gold Coin 1 Grams at Amazon.in				₹9,125.91	-10%	8,178
+17	Laxmi Coin	5 g	No	Malabar Gold & Diamonds Gold Coin 22K 5 grams | Gold Coin 22k 916 Purity | 22 kt Gold Coin for Birthday, Wedding & Diwali Gift, Goddess Laxmi Impression : Amazon.in: Fashion	4.6 out of 5 stars	273		₹42,700.00	-7%	39,599
+18	coin		No	PC Jeweller 1 Gram 24K (995) Yellow Gold Precious Coin : Amazon.in: Fashion	4.3 out of 5 stars	16		₹9,860.00	-8%	9,033
+19	Gold Coin	1 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity OHM Gold Coin 1 Gms at Amazon.in	5.0 out of 5 stars			₹9,679.00	-9%	8,799
+20	Coin	3 g	Malabar Gold & Diamonds	Malabar Gold & Diamonds Gold Coin 24K 3 grams | Gold Coin 24k 999 Purity | 24 kt Gold Coin for Birthday, Wedding & Diwali Gift, Rose Impression : Amazon.in: Jewellery	5.0 out of 5 stars			₹32,490.00	-20%	26,039
+21		1 g	P.N.Gadgil Jewelers	Buy P.N.Gadgil Jewellers 24k (995) Goddess Lakshmi 1 gm Yellow Gold Coin at Amazon.in	4.3 out of 5 stars	74		₹76,978.00	-89%	8,800
+22	Laxmi Coin	2 g	No	Malabar Gold & Diamonds Gold Coin 24K 2 grams | Gold Coin 24k 999 Purity | 24 kt Gold Coin for Birthday, Wedding & Diwali Gift , Goddess Laxmi Impression : Amazon.in: Fashion	4.6 out of 5 stars	2,018	50+	₹18,600.00	-7%	17,309
+23		1 g	P. N. Gadgil Jewellers	P.N.Gadgil Jewellers 1 gm Vedhani Gold coin 24 kt (995) : Amazon.in: Jewellery	4.5 out of 5 stars	37		₹9,312.00	-5%	8,800
+24		1 g		Kundan 24k(999.9) 1 gm Lakshmi Ji Yellow Gold Precious Coin : Amazon.in: Jewellery	4.2 out of 5 stars	28		₹9,999.00	-9%	9,050
+25		1 g	P.N.Gadgil Jewellers	Buy P.N.Gadgil Jewellers 24k (995) 1 gm Yellow Gold Coin at Amazon.in	4.2 out of 5 stars	37		₹79,394.00	-89%	8,800
+26			No	PC Jeweller 24k (995) 1 gm Yellow Gold Coin : Amazon.in: Fashion	4.2 out of 5 stars	24		₹9,860.00	-8%	9,033
+27		191 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Lakshmi Gold Coin 1g at Amazon.in	3.7 out of 5 stars	2		₹9,679.00	-6%	9,136
+28		0.5 g	Kundan Refinery Pvt Ltd	Kundan 0.5g Gold Coin 24k (999.9) : Amazon.in: Fashion	4.6 out of 5 stars	77	50+	₹4,999.00	-6%	4,699
+29	Gold Foil Coin	0.2 g	Bangalore Refinery (P) Ltd.	Buy Bangalore Refinery 999 Purity 200mg Gold Foil Coins (Lord Ganesh) at Amazon.in	3.9 out of 5 stars	14		₹3,000.00	-32%	2,042
+30	Gold Coin	2 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Lord Ganesh Gold Coin 2 Gms at Amazon.in				₹19,029.00	-9%	17,299
+31	Gold Coin	2 g	P.C. Chandra Jewellers	P.C. Chandra Jewellers 24k (995) 2 gm Yellow Gold Coin : Amazon.in: Fashion	4.4 out of 5 stars	15		₹20,538.00	-14%	17,598
+32	Joyalukkas George Head Design 22 K 1 g Yellow Gold Coin	1 g	Joyalukkas	Buy Joyalukkas George Head Design 22 K 1 g Yellow Gold Coin at Amazon.in	4.6 out of 5 stars	5		₹9,000.00	-10%	8,100
+33	Gold Coin	1 g	Muthoot Pappachan	Muthoot Pappachan Swarnavarsham Hallmarked 22KT Rose Gold Coin 1 Gm : Amazon.in: Jewellery				₹9,598.00	-14%	8,239
+34	FashionJewelry	2 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 24KT 999 Gold Coin (2 Gm) at Amazon.in	4.5 out of 5 stars	67	50+	₹20,854.00	-16%	17,509
+35	coin		No	PC Jeweller 24k (995) 2 gm Yellow Gold Coin : Amazon.in: Fashion	4.3 out of 5 stars	25		₹19,944.00	-8%	18,272
+36	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Gaja Lakshmi Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+37	Gold Coin	100 g	CGR Metalloys Pvt Ltd	CGR 24K (999) 0.1gm BIS Hallmarked Gold Coin : Amazon.in: Jewellery	4.4 out of 5 stars	30		₹1,700.00	-23%	1,307
+38		1 g	P.N.Gadgil Jewelers	P.N.Gadgil Jewellers 24k (995) 1 gm Yellow Gold Coin : Amazon.in: Fashion	4.3 out of 5 stars	39		₹8,984.00	-2%	8,800
+39		0.1 g	Waman Hari Pethe Jewellers Mumbai	Buy WHP Jewellers 24K (999) 50 mg Yellow Gold Coin at Amazon.in	3.5 out of 5 stars	10		₹2,199.00	-9%	1,999
+40		1 g	Bhima Jewels	Bhima Jewels BIS Hallmark 22K Lakshmi Gold Coin 1 g : Amazon.in: Jewellery	4.0 out of 5 stars			₹9,500.00	-12%	8,407
+41	Gold Coin	1 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Ayodhya Gold Coin 1 Gms at Amazon.in				₹9,679.00	-9%	8,799
+42		196 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Flower Gold Coin Combo - 5g+1g at Amazon.in				₹55,072.00	-5%	52,478
+43	Gold Coin	2 g	KALYAN JEWELLERS	Buy Kalyan Jewelers 2 grams 22K (916) Purity Gold Coins - BIS Hallmarked - Rose at Amazon.in	4.6 out of 5 stars	7		₹17,610.00	-9%	16,009
+44		400 g	No	PC Jeweller 24k (995) Flower 1 gm Yellow Gold Coin : Amazon.in: Fashion	3.8 out of 5 stars	6		₹9,860.00	-8%	9,033
+45		350 g	L D Sons Jewellers Pvt Ltd	Buy 24k Gold Coin, Fine Gold 24 (999) K 0.250 Grams Yellow Precious Gold Coin 24 (999) K Gold Coin at Amazon.in	1.0 out of 5 stars					2,599
+46	Coin	0.3 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Kuber-Inscribed Foil Coin - 0.3 Gram at Amazon.in	5.0 out of 5 stars			₹4,232.00	-19%	3,443
+47		196 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Lakshmi Gold Coin Combo (5g+1g) at Amazon.in				₹53,918.00	-3%	52,478
+48		100 g		Buy Lagu Bandhu 1 Gram 24 KT (999) Laxmi Gold Coin at Amazon.in	5.0 out of 5 stars	2		₹8,900.00	-3%	8,626
+49		1 g	JOS ALUKKAS	Jos Alukkas 22Kt (916) Head Pattern Gold Coin 1 Gm : Amazon.in: Jewellery	5.0 out of 5 stars			₹9,125.91	-10%	8,178
+50			PC Jeweller	Buy PC Jeweller Floral 24k 995 K Gold Coin (0.5 gm) at Amazon.in	4.1 out of 5 stars	7		₹5,417.00	-8%	4,969
+51		400 g	No	Sri Jagdamba Pearls 1 Gm, 24k (999) Yellow Gold Round Precious Coin : Amazon.in: Fashion	4.2 out of 5 stars	16				
+52	Gold Coin	1 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Shree Ram Gold Coin 1 Gms at Amazon.in				₹9,679.00	-9%	8,799
+53	Coin	0.05 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Laxmi Saraswati Ganesh-Inscribed Foil Coin - 0.05 Gram at Amazon.in	5.0 out of 5 stars	2		₹1,816.00	-26%	1,346
+54		1 g	C.KRISHNIAH CHETTY JEWELLERS	C.Krishniah Chetty Goddess Lakshmi 22k (916) 1 Gm Gold Coin : Amazon.in: Fashion	4.6 out of 5 stars	31		₹8,200.00	-2%	8,020
+55	FashionJewelry	0.5 g	Muthood PAPPACHAN	Buy Muthoot Pappachan Swarnavarsham Hallmarked 999 Gold Coin 0.5 Gm at Amazon.in	4.4 out of 5 stars	38		₹8,257.00	-42%	4,791
+56		400 g		PC Jeweller 2 Gram 24K (995) Yellow Gold Floral Pattern Coin : Amazon.in: Fashion	4.0 out of 5 stars	2		₹19,944.00	-8%	18,272
+57		400 g		PC Jeweller 2 Gram 24K (995) Yellow Gold Floral Pattern Coin : Amazon.in: Fashion	4.0 out of 5 stars	2		₹19,944.00	-8%	18,272
+58	Coin	0.1 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Laxmi Saraswati Ganesh-Inscribed Foil Coin - 0.1 Gram at Amazon.in	1.0 out of 5 stars	2		₹2,300.00	-23%	1,766
+59		1 g	JOS ALUKKAS	Jos Alukkas 22Kt (916) Head Pattern Gold Coin 1 Gm : Amazon.in: Jewellery	5.0 out of 5 stars			₹9,125.91	-10%	8,178
+60		0.5 g	Kundan Refinery Pvt Ltd	Kundan 0.5g Gold Coin 24k (999.9) : Amazon.in: Fashion	4.6 out of 5 stars	77	50+	₹4,999.00	-6%	4,699
+61	Gold Foil Coin	1 g	Bangalore Refinery (P) Ltd	Buy Bangalore Refinery 999 Purity 1 Gram Gold Foil Coin (3 in 1) at Amazon.in	2.0 out of 5 stars	2		₹9,500.00	-9%	8,654
+62		1 g	BHIMA	Buy BHIMA Jewellery 1gram 22kt Lord Mother Mary Gold Coin at Amazon.in	4.8 out of 5 stars	9		₹9,001.00	-9%	8,232
+63		1 g	BHIMA	Buy BHIMA Jewellery 1gram 22kt Lord Ganesha Gold Coin at Amazon.in	5.0 out of 5 stars	4		₹8,999.00	-9%	8,232
+64		1 g		Bangalore Refinery 22kt BIS Hallmarked 1 Gram Lord Ganesh Gold Coin : Amazon.in: Jewellery	4.2 out of 5 stars	7		₹8,500.00	-3%	8,279
+65		1 g	BHIMA	Buy BHIMA Jewellery 1gram 22kt Lord Ananthapadmanabha Gold Coin at Amazon.in	4.7 out of 5 stars	14		₹8,999.00	-9%	8,232
+66	Laxmi Coin	5 g	No	Malabar Gold & Diamonds Gold Coin 22K 5 grams | Gold Coin 22k 916 Purity | 22 kt Gold Coin for Birthday, Wedding & Diwali Gift, Goddess Laxmi Impression : Amazon.in: Fashion	4.6 out of 5 stars	273		₹42,700.00	-7%	39,599
+67		1 g	Bagnalore Refinery (P) Ltd	Bangalore Refinery 999 Purity 1 Gram Banyan Tree Gold Coin : Amazon.in: Jewellery	4.7 out of 5 stars	11		₹10,000.00	-12%	8,849
+68	Gold Coin	2 g	KALYAN JEWELLERS	Buy Kalyan Jewellers 24K (999) Purity Lord Ganesh Gold Coin 2 Gms at Amazon.in				₹19,029.00	-9%	17,299
+69	Gold Coin	100 g	CGR Metalloys Pvt Ltd	CGR 24K (999) 0.1gm Lakshmi Yantra BIS Hallmarked Gold Coin : Amazon.in: Jewellery	4.1 out of 5 stars	15		₹1,700.00	-23%	1,307
+70	FashionJewelry	2 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 24KT 999 Gold Coin (2 Gm) at Amazon.in	4.5 out of 5 stars	67	50+	₹20,854.00	-16%	17,509
+71		1 g	Bhima Jewels	Bhima Jewels BIS Hallmark 22K Lakshmi Gold Coin 1 g : Amazon.in: Jewellery	4.0 out of 5 stars			₹9,500.00	-12%	8,407
+72	Gold Coin	1 g	Muthoot Pappachan	Muthoot Pappachan Swarnavarsham Hallmarked 22KT Rose Gold Coin 1 Gm : Amazon.in: Jewellery				₹9,598.00	-14%	8,239
+73	Coin	0.3 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Kuber-Inscribed Foil Coin - 0.3 Gram at Amazon.in	5.0 out of 5 stars			₹4,232.00	-19%	3,443
+74		400 g	No	PC Jeweller 2 Gram 24K (995) Yellow Gold Fleur Coin : Amazon.in: Fashion	3.9 out of 5 stars	14		₹19,944.00	-8%	18,272
+75		1 g	BHIMA	Buy BHIMA Jewellery 1gram 22kt Georgivs Head Gold Coin at Amazon.in	4.0 out of 5 stars	9		₹9,001.00	-9%	8,232
+76	Gold Coin	2 g	P.C. Chandra Jewellers	P.C. Chandra Jewellers 24k (995) 2 gm Yellow Gold Coin : Amazon.in: Fashion	4.4 out of 5 stars	15		₹20,538.00	-14%	17,598
+77		1 g	C.KRISHNIAH CHETTY JEWELLERS	C.Krishniah Chetty Goddess Lakshmi 22k (916) 1 Gm Gold Coin : Amazon.in: Fashion	4.6 out of 5 stars	31		₹8,200.00	-2%	8,020
+78	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Happy Birthday Design : Amazon.in: Jewellery	1.0 out of 5 stars			₹9,000.00	-10%	8,100
+79	Gold Coin	2 g	KALYAN JEWELLERS	Buy Kalyan Jewelers 2 grams 22K (916) Purity Gold Coins - BIS Hallmarked - Rose at Amazon.in	4.6 out of 5 stars	7		₹17,610.00	-9%	16,009
+80	gold	398 g	No	PC Jeweller 24k (995) 2 gm Yellow Gold Coin : Amazon.in: Jewellery	3.3 out of 5 stars	19		₹19,944.00	-8%	18,272
+81	Gold Coin	0.2 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold King Queen-Inscribed Foil Coin - 0.2 Gram at Amazon.in				₹3,266.00	-20%	2,604
+82				Buy Manappuram Riti Jewellers 22K(916) Lakshmi 1.00 Gram Yellow Gold Coin at Amazon.in				₹8,500.00	-5%	8,114
+83		400 g	No	PC Jeweller 2 Gram 24K (995) Yellow Gold Rose Coin : Amazon.in: Jewellery	4.2 out of 5 stars	19		₹19,944.00	-8%	18,272
+84	FashionJewelry	0.5 g	Muthood PAPPACHAN	Buy Muthoot Pappachan Swarnavarsham Hallmarked 999 Gold Coin 0.5 Gm at Amazon.in	4.4 out of 5 stars	38		₹8,257.00	-42%	4,791
+85	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with FlowerDesign : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+86	Coin	0.5 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Allah-Inscribed Foil Coin - 0.5 Gram at Amazon.in				₹6,164.00	-17%	5,120
+87	Coin	0.05 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Laxmi Saraswati Ganesh-Inscribed Foil Coin - 0.05 Gram at Amazon.in	5.0 out of 5 stars	2		₹1,816.00	-26%	1,346
+88		1.5 g		Buy Muthoot Pappachan Swarnavarsham Hallmarked 999 Gold Coin 1.5 Gm (0.5 Gm + 1 Gm) at Amazon.in				₹17,500.00	-23%	13,536
+89		1.5 g		Buy Muthoot Pappachan Swarnavarsham Hallmarked 999 Gold Coin 1.5 Gm (0.5 Gm + 1 Gm) at Amazon.in				₹17,500.00	-23%	13,536
+90		3 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Flower Coin Combo 2g+1g at Amazon.in						26,449
+91	Coin	0.5 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Swastik-Inscribed Foil Coin - 0.5 Gram at Amazon.in				₹6,164.00	-17%	5,120
+92	gold	398 g	No	PC Jeweller 24k (995) 2 gm Yellow Gold Coin : Amazon.in: Jewellery	3.3 out of 5 stars	19		₹19,944.00	-8%	18,272
+93		37 g	P N Gadgil & Sons Ltd	P N Gadgil & Sons Ltd Gold 24 ct (995) Ganpati Coin (1grams) (Gold-Ganpati-Coin-1GM) : Amazon.in: Fashion	4.7 out of 5 stars	4		₹10,269.00	-12%	9,044
+94		4 g	No	Kundan 4 gm Kalpataru Tree 24KT (999.9) Yellow Gold Coin : Amazon.in: Fashion	4.6 out of 5 stars	221		₹36,999.00	-5%	34,983
+95	Gold Coins	1 g	Sree Kumaran Thangamaligai	Sree Kumaran Thangamaligai Yellow Pure Gold Coin 22k (916) 0.990 gram | BIS hallmarked | Secured package : Amazon.in: Jewellery				₹10,200.00	-19%	8,292
+96	Coin	0.1 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Swastik-Inscribed Foil Coin - 0.1 Gram at Amazon.in	5.0 out of 5 stars			₹2,300.00	-23%	1,766
+97		400 g	No	PC Jeweller 2 Gram 24K (995) Yellow Gold Rose Coin : Amazon.in: Jewellery	4.2 out of 5 stars	19		₹19,944.00	-8%	18,272
+98		1.5 g		Buy Muthoot Pappachan Swarnavarsham Hallmarked 999 Gold Coin 1.5 Gm (0.5 Gm + 1 Gm) at Amazon.in				₹17,500.00	-23%	13,536
+99		1 g		Bangalore Refinery 22kt BIS Hallmarked 1 Gram Lord Ganesh Gold Coin : Amazon.in: Jewellery	4.2 out of 5 stars	7		₹8,500.00	-3%	8,279
+100		400 g	No	PC Jeweller 5 Gram 24K (995) Yellow Gold Auspicious Coin : Amazon.in: Fashion	4.1 out of 5 stars	2		₹47,270.00	-7%	44,136
+101	Coin	0.1 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Laxmi Saraswati Ganesh-Inscribed Foil Coin - 0.1 Gram at Amazon.in	1.0 out of 5 stars	2		₹2,300.00	-23%	1,766
+102	Gold Foil Coin	1 g	Bangalore Refinery (P) Ltd	Buy Bangalore Refinery 999 Purity 1 Gram Gold Foil Coin (3 in 1) at Amazon.in	2.0 out of 5 stars	2		₹9,500.00	-9%	8,654
+103		399 g	No	Aucent by PC Jeweller 24k (995) Flower 2 gm Yellow Gold Coin : Amazon.in: Fashion	3.6 out of 5 stars	6		₹19,944.00	-8%	18,272
+104				PC Jeweller 10 Gram 24K (995) Yellow Gold Precious Coin : Amazon.in: Jewellery	5.0 out of 5 stars			₹92,721.00	-5%	88,271
+105	Coin	1 g	PC Jeweller	PC Jeweller 22k (916) Yellow Gold Precious Coin : Amazon.in: Fashion	3.6 out of 5 stars	3		₹9,010.00	-7%	8,343
+106				Buy Manappuram Riti Jewellers 22K(916) Lakshmi 1.00 Gram Yellow Gold Coin at Amazon.in				₹8,500.00	-5%	8,114
+107	gold	399 g		PC Jeweller 24k (995) 5 gm Yellow Gold Coin : Amazon.in: Jewellery	4.5 out of 5 stars	16		₹47,270.00	-7%	44,136
+108		1 g	Bagnalore Refinery (P) Ltd	Bangalore Refinery 999 Purity 1 Gram Banyan Tree Gold Coin : Amazon.in: Jewellery	4.7 out of 5 stars	11		₹10,000.00	-12%	8,849
+109		399 g		PC Jeweller 10 Gram 24K (995) Yellow Gold Fleur Coin : Amazon.in: Fashion	5.0 out of 5 stars			₹92,721.00	-5%	88,271
+110		1 g	BHIMA	Buy BHIMA Jewellery 1gram 22kt Georgivs Head Gold Coin at Amazon.in	4.0 out of 5 stars	9		₹9,001.00	-9%	8,232
+111	Laxmi Ji Coin	1 g	LBV	Buy LBV Lakshmi Ji 999 Purity Silver coins | 1,5,10 gm BIS Hallmark | With Gangajal in Gift Box for Pooja, Festivals, Corporate, Birthday Gift Items (1 gm Lakshmi Golden Coin) marriage wedding gift at Amazon.in	4.1 out of 5 stars	13		₹999.00	-55%	449
+112			No	Sri Jagdamba Pearls 1 Gm 24kt (999) Yellow Gold Coin : Amazon.in: Fashion	2.8 out of 5 stars	3				
+113	Coin	0.2 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Swastik-Inscribed Foil Coin - 0.2 Gram at Amazon.in				₹3,266.00	-20%	2,604
+114	Silver Coin 1 Gram	1 g	CHOTTEY LAL AND SONS	Buy CHOTTEY LAL AND SONS Laxmi Ji 999 Pure Silver Coins with Box Packaging For Diwali Puja, Occasions, Festive Season, Opening Ceremony and Coporate Gifting (Silver, 1 Gram) at Amazon.in	4.1 out of 5 stars	18		₹399.00	-29%	284
+115	Gold Coin	0.2 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Laxmi-Inscribed Foil Coin - 0.2 Gram at Amazon.in	5.0 out of 5 stars			₹3,266.00	-20%	2,604
+116			No	PC Jeweller 24k (995) 5 gm Yellow Gold Coin : Amazon.in: Fashion				₹47,270.00	-7%	44,136
+117			NAC JEWELLERS	NAC JEWELLERS 1 Gram Gold Coin | Yellow Pure Gold Coin 22k (916) 1 gram | Gold Coin 22k (916) 1 gm| BIS hallmarked | Secured package : Amazon.in: Jewellery	3.0 out of 5 stars			₹9,874.00	-16%	8,282
+118		1 g	Waman Hari Pethe Jeweller - Mumbai	Buy WHP Jewellers 24 kt (999) 1 gm Vedani at Amazon.in				₹9,450.00	-2%	9,240
+119	Gold Coin	0.2 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Ganesh-Inscribed Foil Coin - 0.2 Gram at Amazon.in	4.0 out of 5 stars			₹3,266.00	-20%	2,604
+120	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Plain Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+121	Gold Coin	1 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 22KT Ganesha Gold Coin 1 Gm at Amazon.in				₹10,498.00	-22%	8,239
+122				PH Artistic Religious 999 fine Silver Coin God Lord Ganesha Om Gold Polish with Box Gift : Amazon.in: Jewellery				₹2,000.00		1,999
+123		191 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Plain Flower Coin 1g at Amazon.in				₹9,266.00	-1%	9,136
+124				PC Jeweller 5 Gram 24K (995) Yellow Gold Flower Coin : Amazon.in: Fashion	4.2 out of 5 stars	6		₹47,270.00	-7%	44,136
+125		400 g	No	Sri Jagdamba Pearls Bis Hallmarked 1 Gm, 22k (916) Yellow Gold Round Precious Coin : Amazon.in: Fashion	3.9 out of 5 stars	11				
+126	Silver Coin 1 Gram	1 g	CHOTTEY LAL AND SONS	Buy CHOTTEY LAL AND SONS 999 Purity Ganesh Ji Silver Coin with Unique Box Packaging for Coporate Gifting, Diwali Puja, Ceremony, Wedding and Festivals (Silver, 1 Gram) at Amazon.in	4.1 out of 5 stars	4		₹399.00	-22%	312
+127	Gold Coin	0.3 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold King Queen-Inscribed Foil Coin - 0.3 Gram at Amazon.in				₹4,232.00	-19%	3,443
+128		3 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Lakshmi Coin Combo 2g+1g at Amazon.in				₹27,200.00	-3%	26,449
+129		3 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Lakshmi Coin Combo 2g+1g at Amazon.in				₹27,200.00	-3%	26,449
+130	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Tirupati Balaji Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+131			NAC JEWELLERS	NAC JEWELLERS 1 Gram Gold Coin | Yellow Pure Gold Coin 22k (916) 1 gram | Gold Coin 22k (916) 1 gm| BIS hallmarked | Secured package : Amazon.in: Jewellery	3.0 out of 5 stars			₹9,874.00	-16%	8,282
+132		1 g	Waman Hari Pethe Jeweller - Mumbai	Buy WHP Jewellers 24 kt (999) 1 gm Vedani at Amazon.in				₹9,450.00	-2%	9,240
+133	Silver Coin	11 g	La Belle Vie	Buy LBV Lakshmi Ji 999 Purity Silver coins | 1,5,10 gm BIS Hallmark | With Gangajal in Gift Box for Pooja, Festivals, wedding, marriage gift, Corporate, Birthday Gift Items (1 gm X 11 Lakshmi coin) at Amazon.in				₹4,999.00	-40%	2,998
+134	Silver Coin 1 Gram	1 g	CHOTTEY LAL AND SONS	Buy CHOTTEY LAL AND SONS 999 Purity Banyan Tree Round Silver Coin with Unique Box Packaging for Coporate Gifting, Ceremony, Wedding and Festivals (Silver, 1 Gram) at Amazon.in	3.7 out of 5 stars	27		₹399.00	-22%	312
+135		10 g	No	Ananth Jewels Pure Silver Coin 10 grams Happy Birthday Cake Gift : Amazon.in: Jewellery	4.6 out of 5 stars	117		₹1,999.00	-15%	1,709
+136		100 g		Buy Francis Alukkas 22k 2gm Yellow Gold Coin (BIS 916 Hallmark) at Amazon.in	5.0 out of 5 stars			₹17,073.00	-5%	16,260
+137	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Allha Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+138		191 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Plain Flower Coin 1g at Amazon.in				₹9,266.00	-1%	9,136
+139	Gold Coin	0.2 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold Ganesh-Inscribed Foil Coin - 0.2 Gram at Amazon.in	4.0 out of 5 stars			₹3,266.00	-20%	2,604
+140	Gold Coin	1 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 22KT Ganesha Gold Coin 1 Gm at Amazon.in				₹10,498.00	-22%	8,239
+141	Lakshmi Ganesh Silver Coin 1 Gram	1 g	CHOTTEY LAL AND SONS	CHOTTEY LAL AND SONS 999 Pure Laxmi Ganesh Silver Coins with Unique Packaging For Diwali Puja, Occasions, Festive Season, Opening Ceremony and Coporate Gifting (Silver, 1 Gram) : Amazon.in: Home & Kitchen	3.4 out of 5 stars	5		₹399.00	-22%	312
+142	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Plain Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+143		60 g	No	Buy MAA SILVER 999 Purity Silver Laxmi/Lakshmi Ji Coin/Sikka for Diwali|Dhanteras with Box for Gifting & Religious Use (2 Grams) at Amazon.in	3.8 out of 5 stars	32		₹599.00	-31%	412
+144	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Jesus Christ Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+145		100 g		Buy Francis Alukkas 22k 4gm Yellow Gold Coin (BIS 916 Hallmark) at Amazon.in	5.0 out of 5 stars			₹33,852.00	-5%	32,240
+146				PC Jeweller 5 Gram 24K (995) Yellow Gold Flower Coin : Amazon.in: Fashion	4.2 out of 5 stars	6		₹47,270.00	-7%	44,136
+147		3 g	Bhima Jewels	Buy Bhima Jewels 24K 999 Purity Lakshmi Coin Combo 2g+1g at Amazon.in				₹27,200.00	-3%	26,449
+148	Gold Coin	0.3 g	P.C. Chandra Jewellers	Buy P.C Chandra Jewellers 24KT 999 Yellow Gold King Queen-Inscribed Foil Coin - 0.3 Gram at Amazon.in				₹4,232.00	-19%	3,443
+149				PH Artistic Religious 999 fine Silver Coin God Lord Ganesha Om Gold Polish with Box Gift : Amazon.in: Jewellery				₹2,000.00		1,999
+150		400 g	No	Sri Jagdamba Pearls Bis Hallmarked 1 Gm, 22k (916) Yellow Gold Round Precious Coin : Amazon.in: Fashion	3.9 out of 5 stars	11				
+151		400 g	No	PC Jeweller 24k (995) 5 gm Yellow Gold Coin : Amazon.in: Fashion	4.1 out of 5 stars	13		₹47,270.00	-7%	44,136
+152		200 g		LVA CREATIONS Fine pure Silver Currency Note coin bar of 2000 lakshmi ganesh laxmi with 999 Purity for gift in happy birthday gift & happy anniversary gift festive gift pack for pooja & Dhanteras diwali. gift for wife birthday wedding special : Amazon.in: Jewellery	4.0 out of 5 stars	93		₹999.00	-50%	495
+153	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Hanuman Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+154	Silver Coin 1 Gram	1 g	CHOTTEY LAL AND SONS	Buy CHOTTEY LAL AND SONS 999 Purity Ganesh Ji Silver Coin with Unique Box Packaging for Coporate Gifting, Diwali Puja, Ceremony, Wedding and Festivals (Silver, 1 Gram) at Amazon.in	4.1 out of 5 stars	4		₹399.00	-22%	312
+155			Sri Jagdamba Pearls Dealer	Buy Sri Jagdamba Pearls 24KT Ram Mandir 10 Gram Yellow Gold Coin at Amazon.in						
+156			No	PC Jeweller 5 Gram 24K (995) Yellow Gold Rose Coin : Amazon.in: Fashion				₹47,270.00	-7%	44,136
+157	Gold Coin	1 g	Joyalukkas India LTD	Joyalukkas 1gm 22K (916) Yellow Gold Coin with Sai Baba Design : Amazon.in: Jewellery				₹9,000.00	-10%	8,100
+158		10 g	Sri Jagdamba Pearls	24Kt (999) 10GM Laxmi Ganesh Gold Coin : Amazon.in: Fashion						
+159			NAC JEWELLERS	Buy NAC JEWELLERS Gold Coin 22k (916) 1 gram on Honour of Chandrayaan-3's Success|1gm 916 Gold Coin | BIS hallmarked | 1 Gram Gold Coin at Amazon.in	5.0 out of 5 stars			₹9,856.00	-14%	8,509
+160	Coin	1 g	PC Jeweller	PC Jeweller 22k (916) Yellow Gold Rose Coin : Amazon.in: Fashion				₹9,010.00	-7%	8,343
+161	Gold Coin	1 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 22KT Cross Gold Coin 1 Gm at Amazon.in				₹9,498.00	-13%	8,239
+162			Sri Jagdamba Pearls Dealer	Buy Sri Jagdamba Pearls 24KT Ram Mandir 5 Gram Yellow Gold Coin at Amazon.in						
+163			Sri Jagdamba Pearls	Sri JAgdamba Pearls 24Kt (999) 2GM Vishnu Gold Coin : Amazon.in: Fashion	5.0 out of 5 stars	2				
+164			Sri Jagdamba Pearls	24Kt (999) 2GM Balaji Gold Coin : Amazon.in: Fashion						
+165		400 g	No	KaratCraft 22k (916) 1 gm Yellow Gold Coin : Amazon.in: Fashion	5.0 out of 5 stars					
+166	Gold Coin	310 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 22KT Lakshmi Gold Coin 1 Gm at Amazon.in	2.6 out of 5 stars	3		₹9,898.00	-17%	8,239
+167		100 g	No	Buy Kundan 100g (999.9) Lakshmi & Ganesh Silver Bar at Amazon.in	4.5 out of 5 stars	505		₹12,999.00	-21%	10,248
+168		10 g	L.D Sons Jewellers Pvt Ltd	Lords Jewels Ganesh Ji 10 Gram BIS Hallmarked 999 Silver Coin : Amazon.in: Jewellery	4.5 out of 5 stars	13		₹9,999.00	-86%	1,399
+169	Gold Coin	2 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 22KT Ganesha Gold Coin 2 Gm at Amazon.in				₹18,845.00	-13%	16,373
+170		20 g	No	Buy Kundan 20g (999.9) Tirupati Balaji Silver Bar at Amazon.in	4.5 out of 5 stars	169		₹2,799.00	-18%	2,296
+171			No	Sri Jagdamba Pearls 5 Gm, 24kt (999) Yellow Gold Coin : Amazon.in: Fashion	3.6 out of 5 stars	13				
+172		10 g	L.D Sons Jewellers Pvt Ltd	Purity of Love Radha Krishna Silver Coin 999 Purity 10 Grams Precious Gift : Amazon.in: Jewellery	4.3 out of 5 stars	10		₹9,999.00	-86%	1,399
+173		10 g	L.D Sons Jewellers Pvt Ltd	Purity of Love Radha Krishna Silver Coin 999 Purity 10 Grams Precious Gift : Amazon.in: Jewellery	4.3 out of 5 stars	10		₹9,999.00	-86%	1,399
+174	Gold Coin	2 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 22KT Cross Gold Coin 2 Gm at Amazon.in				₹20,845.00	-21%	16,373
+175	Gold Coin	2 g	Muthoot Pappachan	Buy Muthoot Pappachan Swarnavarsham Hallmarked 22KT Cross Gold Coin 2 Gm at Amazon.in				₹20,845.00	-21%	16,373
